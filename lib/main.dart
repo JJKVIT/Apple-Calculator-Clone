@@ -39,7 +39,7 @@ class _CalcState extends State<Calc> {
                 alignment: Alignment.bottomRight,
                 child: Text(calc,style:GoogleFonts.oswald(
                     color: Colors.white,
-                    fontSize: 80,
+                    fontSize: 82,
                     fontWeight: FontWeight.w400
                 ),
                 ),
